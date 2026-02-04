@@ -14,7 +14,8 @@
   o        Tools: Git, Visual Studios, Unity
 
   o         Cloud: AWS
-   📂 Projects
+
+📂 Projects
 
 o N/A 
 
