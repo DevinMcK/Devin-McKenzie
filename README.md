@@ -1,7 +1,7 @@
 # Devin-McKenzie
 👋 Hi, I’m Devin McKenzie
 
-  o      🎓 FIrst Year Bachelor of Computing Student at Belgium Campus iTversity 
+  o      🎓 First Year Bachelor of Computing Student at Belgium Campus iTversity 
 
   o       🌱 Passionate about AI, Game Development and Bug Testing
 
