@@ -14,3 +14,10 @@
   o        Tools: Git, Visual Studios, Unity
 
   o         Cloud: AWS
+   📂 Projects
+
+o N/A 
+
+📄 CV
+
+o N/A        
